@@ -5,3 +5,4 @@ It is an innovative steganography technique which can be used to hide textual da
 - Sender.py: overlays the message on motivation2.txt and generates a carrier file out2.html.
 - out2.html: Carrier file
 - Receiver.py: It takes the carrier file out2.html reads it, and prints decoded message on the screen.
+- Please note: You might not be able to see some images on the html page out2.html as the image files have hardcoded path to my computer's directory. Please give a suitable image path to see the comple html page.
